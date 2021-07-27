@@ -1,4 +1,4 @@
-# Proyek Akhir : Klasifikasi Gambar
+# Proyek Akhir: Klasifikasi Gambar
 Submission at Dicoding: Belajar Machine Learning buat Pemula
 
 Untuk bisa lulus dari akademi ini, Anda harus mengirimkan submission berupa program jaringan saraf tiruan menggunakan TensorFlow. Program Anda harus mampu mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
