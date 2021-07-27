@@ -16,3 +16,5 @@ Berikut kriteria submission yang harus Anda penuhi:
 * Program dikerjakan pada Google Colaboratory.
 * Akurasi dari model minimal 85%.
 * Dapat memprediksi gambar yang diunggah ke Colab
+
+Course ini dapat diakses melalui https://www.dicoding.com/academies/184
